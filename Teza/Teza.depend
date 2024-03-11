@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1652225788 source:d:\codeblocks\oji\teza\main.cpp
+	<bits/stdc++.h>
+	<stdio.h>
+	<unistd.h>
+	<conio.h>
+	"stiva.h"
+
+1652221126 d:\codeblocks\oji\teza\include\stiva.h
+	<bits/stdc++.h>
+
+1652221521 source:d:\codeblocks\oji\teza\src\stiva.cpp
+	"stiva.h"
+
